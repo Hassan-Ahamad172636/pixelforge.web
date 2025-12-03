@@ -1,7 +1,7 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Login from './pages/Login';
-import SignUp from './pages/Signup';
+import SignUp from './pages/signup';
 import Layout from './pages/layout/Layout';
 import Chat from './pages/Chat';
 import Interceptor from './interceptors/interceptor';
