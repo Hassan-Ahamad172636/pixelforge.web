@@ -7,7 +7,7 @@ import { Globe, Sparkles, Mail, Lock, User, CheckCircle2, Eye, EyeOff, RefreshCw
 import { useNavigate } from "react-router-dom";
 import { fetchInstance } from "@/api/fetchInstance";
 import { toast } from "sonner";
-
+// name change
 function SignUp() {
     const navigate = useNavigate();
     const [showPassword, setShowPassword] = useState(false);
